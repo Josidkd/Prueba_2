@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=BioRhyme');
+body{
+  background-color: #690095;
+  color: #fcff01;
+  font-family: 'BioRhyme', serif;
+}
+b{
+  color: #a6a800;
+}
+.boton{
+  background-color: #8a00c4;
+  border: 2px solid black;
+  padding: 5px;
+}
+boton:hover{
+  background-color: #690095;
+}
